@@ -1,2 +1,2 @@
 # induit-app
-OS X app
+iOS app
